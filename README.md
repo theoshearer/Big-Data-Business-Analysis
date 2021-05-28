@@ -24,6 +24,6 @@ Give marketing success rate (No. of people subscribed / total no. of entries)
 
 
 METHOD:
--The data was uploaded into Atom IDE and scala codes where written in Spark environment to have a quick look and make apt business conclusions
+-The data was uploaded into Atom IDE and Scala and SparkSQL codes where written in Spark environment to have a quick look and make apt business conclusions
 
 
